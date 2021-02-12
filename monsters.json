@@ -6001,10 +6001,124 @@
       "id": 1000
     },
     {
-      "name": "13",
-      "age": 13,
-      "description": "131313",
+      "name": "testing a new monster",
+      "age": 35,
+      "description": "foo bar",
       "id": 1001
+    },
+    {
+      "name": "new test monster",
+      "age": 25,
+      "description": ";lasdkjf",
+      "id": 1002
+    },
+    {
+      "name": "",
+      "age": null,
+      "description": "",
+      "id": 1003
+    },
+    {
+      "name": "please work please",
+      "age": 464646,
+      "description": "asdfasdfasdf",
+      "id": 1004
+    },
+    {
+      "name": "testing",
+      "age": 123,
+      "description": "testing",
+      "id": 1005
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1006
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1007
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1008
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1009
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1010
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1011
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1012
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1013
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1014
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1015
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1016
+    },
+    {
+      "name": "final test",
+      "age": 12345,
+      "description": "this is a test",
+      "id": 1017
+    },
+    {
+      "name": "i don't understand",
+      "age": 4848484848,
+      "description": "asdfasdf",
+      "id": 1018
+    },
+    {
+      "name": "i don't understand",
+      "age": 4848484848,
+      "description": "asdfasdf",
+      "id": 1019
+    },
+    {
+      "name": "T Rex",
+      "age": 123,
+      "description": "this is a test",
+      "id": 1020
     }
   ]
 }
